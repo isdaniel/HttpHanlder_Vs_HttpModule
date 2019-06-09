@@ -243,3 +243,8 @@ ModelManifest.xml
 /CommonLib/ElectronicInvoice.Produce.dll
 /CommonLib
 
+/HttpHandler_HttpModule/packages
+/HttpHandler_HttpModule/.vs
+/HttpHandler_HttpModule/*.user
+/HttpHandler_HttpModule/HttpHandler_HttpModule/bin
+/HttpHandler_HttpModule/HttpHandler_HttpModule/obj
